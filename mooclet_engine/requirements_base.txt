@@ -11,7 +11,7 @@ pygments==2.2.0
 markdown==2.6.11
 pycurl==7.43.0 --install-option="--with-nss"
 #celery[sqs]==4.1.1
-django-celery-results==1.0.1
+django-celery-results==2.4.0
 #django-celery-beat
 scipy==1.1.0
 drf-writable-nested==0.5.1
