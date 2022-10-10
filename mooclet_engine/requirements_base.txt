@@ -7,7 +7,7 @@ django-filter==1.1
 rest-pandas==1.0.0
 sqlalchemy==1.2.10
 coreapi==2.3.3
-pygments==2.2.0
+pygments==2.7.4
 markdown==2.6.11
 pycurl==7.43.0 --install-option="--with-nss"
 #celery[sqs]==4.1.1
