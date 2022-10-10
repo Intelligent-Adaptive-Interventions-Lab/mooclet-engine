@@ -30,7 +30,7 @@ jsonschema==2.6.0
 kombu==4.6.5
 MarkupSafe==1.1.1
 more-itertools==7.2.0
-numpy==1.17.2
+numpy==1.22.0
 openapi-spec-validator==0.2.8
 pandas==0.25.1
 psycopg2-binary==2.8.3
